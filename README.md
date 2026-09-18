@@ -24,17 +24,6 @@
 - 📫 Reach me at **krushnababhulkar93@gmail.com**
 - ⚡ Always exploring ways to write cleaner, more efficient code
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krushna-358&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
 
 ### 🛠️ Languages & Tools
 
