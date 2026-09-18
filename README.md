@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krushna-358&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=krushna-358&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -44,6 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" title="React"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45" title="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="45" height="45" title="Spring Boot"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45" title="Django"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" title="MySQL"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" title="Postman"/>
